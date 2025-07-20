@@ -6,10 +6,7 @@
 
 ---
 🎓 **Education**
-- 🎓 **[Degree or Certificate Name]**, [Institution Name]  
-  _Example: B.Sc. in Computer Science, Open University_
-- 🏅 **Graduated Bootcamp in [Specialization, e.g., Full Stack Development]**  
-  _Example: Graduated from [Coding Academy] Bootcamp, specializing in React & Node.js_
+- 🎓 B.Sc. in Computer Science, The Open University  
 
 ---
 🛠 **Technologies & Tools I Work With**
@@ -31,4 +28,4 @@
 
 🚀 **Let's Connect** 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guy-azrad/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-663399?style=flat&logoColor=white)](mailto:email@em.com) [![Email](https://img.shields.io/badge/Email-Me)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guy-azrad/) 
